@@ -6,6 +6,7 @@
 
 `Forms:`
 a. General form submits: https://www.w3schools.com/html/html_forms.asp
+
 b. Preventing default submit: 
 • https://www.w3schools.com/jquery/event_preventdefault.asp
 • https://stackoverflow.com/questions/4426179/jquery-event-preventdefault
@@ -20,20 +21,28 @@ b. Preventing default submit:
 `Window.localstorage – AKA 'localstorage':`
 • General: https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
 • setItem/clear: https://developer.mozilla.org/en-US/docs/Web/API/Storage/clear
+
 `Window.sessionStorage – AKA 'sessionStorage':`
 • General: https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage
+
 `Document.cookie:`
 • https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie
+
  `substring():`
 • https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring
+
  `charAt():`
 • https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charAt
+
 `split():`
 • https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
+
 `join():`
 • https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join
+
 `isArray():`
 • https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray
+
 `jQuery selectors:`
 • https://www.w3schools.com/jquery/jquery_ref_selectors.asp (edited)
 
