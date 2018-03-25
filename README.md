@@ -1,13 +1,99 @@
 # coding-resources
 
+#Functions
+1. A quick 5 minute read on functions: 
+https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99
+
+#JQuery Intro
+1. Here’s an introduction to jQuery via Kahn Academy as well.
+https://www.khanacademy.org/computing/computer-programming/html-js-jquery
+
+#DOM Event Documentation
+1. MDN DOM events 
+https://developer.mozilla.org/en-US/docs/Web/API/Event
+
+2. If you’re interested in studying DOM on your own( Which I highly recommend ) 
+https://www.w3schools.com/js/js_htmldom.asp
+
+#JQuery Intelligence
+1. General instructions for jQuery Intellisense and plugins for VS Code: 
+https://gist.github.com/jamescalderon/e6332ed039fd1bdaa710532a56161a28
+
+#Sounds
+1. Welcome to Soundboard.com. 496,427 sound clips and sound effects on categorized soundboards from radio to TV to games, travel, science, animals, sound effects and sports. Listen, download and embed music. Free mp3 download or build your own audio soundboard using our innovative tools. 
+http://www.soundboard.com/ 
+
+2. Freesound: collaborative database of creative-commons licensed sound for musicians and sound lovers. Have you freed your sound today?
+ http://www.freesound.org 
+
+1. Extension for Visual Studio Code - A customizable extension for colorizing matching brackets
+https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
+
+
+#6.2 Topics to help prep for class 6.2 (function names in bold - some may be review topics):
+
+1. JSON:
+    • *JSON.stringify*: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify
+    • *JSON.parse*: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse
+
+2. Trim:
+    • JavaScript *.trim* (*String.trim()*) function: https://www.w3schools.com/Jsref/jsref_trim_string.asp
+
+3. Push:
+    • Array *push()*: https://www.w3schools.com/jsref/jsref_push.asp
+
+4. Forms:
+    a. General form submits (think 'submitting data when clicking the Submit button after filling out a web form'). This usually causes a refresh of page in browser: https://www.w3schools.com/html/html_forms.asp
+    b. Preventing default submit (through jQuery) - prevents page refresh and allows you to handle/manipulate submit: 
+    • https://stackoverflow.com/questions/4426179/jquery-event-preventdefault
+    • https://api.jquery.com/event.preventdefault/
+
+5. Adding Event Listeners to Dynamic Elements Generated With jQuery:
+    • (look at best answer): https://stackoverflow.com/questions/12065329/jquery-adding-event-listeners-to-dynamically-added-elements
+
+6.  jQuery *$(this)*: 
+    • http://html-tuts.com/jquery-this-selector/
+
+7. API Keys To Sign Up For:
+    •    OpenWeatherMap API: http://openweathermap.org/appid
+    •    Giphy API (choose ‘Create An App’ to get started): https://developers.giphy.com/docs/ (edited)
+
+
+#6.3 Class Prep (some material may be review – some may be new):
+1.  JS && in conditional statements: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_Operators
+
+2. jQuery prepend() Method: https://www.w3schools.com/jquery/html_prepend.asp
+
+3.  Data Attributes:
+    a. In HTML: https://www.w3schools.com/tags/att_global_data.asp
+    b. WHY to use them: https://www.sitepoint.com/how-why-use-html5-custom-data-attributes/
+    c. Set or get data from using jQuery .attr() function – this is general documentation: http://api.jquery.com/attr/
+    d. jQuery.data()  - Alternate – be careful, as there are some differences from c above: 
+    •    https://stackoverflow.com/questions/5309926/how-to-get-the-data-id-attribute
+    •    https://www.peterbe.com/plog/data-and-attr-in-jquery
+
+#Extras:
+4. jQuery Pass Attributes to A Self-Closed Element: https://stackoverflow.com/questions/867916/creating-a-div-element-in-jquery
+Example from link: 
+jQuery('<div/>', {
+id: 'foo',
+href: 'http://google.com',
+title: 'Become a Googler',
+rel: 'external',
+text: 'Go to Google!'
+}).appendTo('#mySelector');
+
+5. JSDoc way of documenting functions in code:
+a. JSDoc: http://usejsdoc.org/tags-param.html
+b. StackOverflow: https://stackoverflow.com/questions/5873927/how-to-indicate-param-is-optional-using-inline-jsdoc (edited)
 
 
 #7.1 Prep (may be review or new subjects):*
 
 `Forms:`
-a. General form submits: https://www.w3schools.com/html/html_forms.asp
+1. General form submits: https://www.w3schools.com/html/html_forms.asp
 
-b. Preventing default submit: 
+2. Preventing default submit: 
 • https://www.w3schools.com/jquery/event_preventdefault.asp
 • https://stackoverflow.com/questions/4426179/jquery-event-preventdefault
 • https://api.jquery.com/event.preventdefault/
@@ -67,3 +153,9 @@ https://atomiks.github.io/30-seconds-of-css/
 
 #here are 25 html and CSS tutorials
 https://codeburst.io/25-html-css-tutorials-6a864f387185
+
+#Hey guys bookmark this page and reference it when you’re working with firebase!
+ https://blogs.msdn.microsoft.com/premier_developer/2018/01/19/firebase-101-nosql-database-management/
+
+ #Take a look at this part of their docs
+ https://momentjs.com/docs/#/parsing/
