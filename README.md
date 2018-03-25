@@ -65,3 +65,5 @@ Posted an awesome link to some cheat sheets. Take a look to this collection of c
 A curated collection of useful CSS snippets you can understand in 30 seconds or less. From foundational elements such as clearfix to gradient text color and gradient cursor tracking to CSS easing and far beyond.
 https://atomiks.github.io/30-seconds-of-css/
 
+#here are 25 html and CSS tutorials
+https://codeburst.io/25-html-css-tutorials-6a864f387185
