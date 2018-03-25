@@ -4,6 +4,14 @@
 1. 7.5 Ways to Survive Coding Bootcamp: The No-BS Guide to Making It Out Alive (and Sane) | Grant T. Aguinaldo
     https://www.grantaguinaldo.com/tips-surviving-coding-bootcamp/
 
+#BootStrap CSS Video Help
+1. Create a basic web layout using Bootstrap.
+    https://www.youtube.com/watch?v=Y9rMbKHoTBI
+
+# Bootstrap Text Layout
+1. Practice building grid-based layouts with the Bootstrap CSS framework.
+    https://www.youtube.com/watch?v=wQovwgW020g
+
 #For Loops
 1. this is one of my favorite videos about for loops. It's actually set to a hip-hop track and all about looping over burritos
     https://www.flocabulary.com/unit/coding-for-loops/ 
@@ -20,8 +28,16 @@
 #API 
 1. Here's a good article in the differences between an API (in general) and a Web API
     https://en.wikipedia.org/wiki/Application_programming_interface
+
 2. Another place you can also search APIs: 
     https://www.programmableweb.com/
+
+3. What is an API? In English, please. – freeCodeCamp
+    https://medium.freecodecamp.org/what-is-an-api-in-english-please-b880a3214a82 
+
+4. What are some fun API's to play with?
+    https://www.reddit.com/r/webdev/comments/3wrswc/what_are_some_fun_apis_to_play_with/
+
 
 #Functions
 1. A quick 5 minute read on functions: 
@@ -210,6 +226,9 @@
 1. If anyone is still confused about Media Queries I watched this video and it helped
     https://www.youtube.com/watch?v=5xzaGSYd7jM&index=5&list=PL4cUxeGkcC9g9Vh9MAA-XKnfJsWZnPZFw
 
+2. Media query video 
+    https://www.youtube.com/watch?v=x_wlcp-W27c
+
 #Hoisting
 1. Understanding hoisting in javascript 
     https://scotch.io/tutorials/understanding-hoisting-in-javascript
@@ -217,3 +236,63 @@
 #ParseInt
 1. The parseInt() function parses a string argument and returns an integer of the specified radix (the base in mathematical numeral systems).
     https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt
+
+#Wireframing Tools:
+1. Balsamiq
+    https://balsamiq.com/
+
+2. Framebox: 
+    http://framebox.org/
+Pen and Paper: Your notebook
+
+#Grids for Photoshop / Illustrator:
+1. 960 GS
+    http://960.gs/
+
+2. GuideGuide
+    http://framebox.org/
+
+#Designing with Grids Guides: 
+1. 960 Grid System Made Easy
+    http://bit.ly/1sjYaFC
+
+2. Design by Grid
+    http://www.designbygrid.com/
+
+3. Designing with Grid-Based Approach
+    http://bit.ly/1CM4Hzo
+
+#FIREBASE
+    https://firebase.google.com/docs/reference/js/firebase.database.Reference?authuser=0#on
+    https://www.gstatic.com/firebasejs/live/3.0/firebase.js
+
+#ARIA MDN Web Docs
+1. Accessible Rich Internet Applications (ARIA) is a set of attributes that define ways to make Web content and Web applications (especially those developed with Ajax, JavaScript and more recent web technologies like Bootstrap) more accessible to people with disabilities.
+    https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA
+
+2. How does role=form help accessibility? I have read that the role attribute was added to Bootstrap for accessibility, and I would like to know how <form role="form"> helps accessibility.
+    https://stackoverflow.com/questions/21922305/how-does-role-form-help-accessibility
+
+#USING GOOGLE DRIVE
+1. How to Use Google Drive | Beginners Tutorial
+    https://www.youtube.com/watch?v=cCZj5ojxRAA
+
+#GITHUB FINDER APP
+    https://khandoors.github.io/Github-finder-app/
+
+#Helpful YouTube Videos
+1. Google Maps API
+    https://www.youtube.com/watch?v=0wpyY948nDE
+
+2. Part 1 (Google Books API, AJAX, JSON)
+    https://www.youtube.com/watch?v=uI_UP0pgsDE
+
+3. Part 2 (Google Books API, AJAX, JSON)
+    https://www.youtube.com/watch?v=4LdTe90dqVE
+
+#OPEN MOVIE DATABASE API
+    http://www.omdbapi.com/
+
+#JSON
+1. JSON Formatter: Makes JSON easy to read. Open source.
+    https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en-US
