@@ -1,33 +1,75 @@
 # coding-resources
 
+#GUIDE TO SURVIVING BOOTCAMP
+1. 7.5 Ways to Survive Coding Bootcamp: The No-BS Guide to Making It Out Alive (and Sane) | Grant T. Aguinaldo
+    https://www.grantaguinaldo.com/tips-surviving-coding-bootcamp/
+
+#For Loops
+1. this is one of my favorite videos about for loops. It's actually set to a hip-hop track and all about looping over burritos
+    https://www.flocabulary.com/unit/coding-for-loops/ 
+    https://www.flocabulary.com/unit/coding-conditionals/
+    https://www.flocabulary.com/unit/coding-events/
+
+#Whiteboarding
+1. GitBook is where you create, write and organize documentation and books with your team.
+    https://the-coding-bootcamp.gitbooks.io/whiteboarding-algorithms-and-interview-questions/content/
+
+#Frameworks
+1. Since we just started covering frameworks, take a look at this url.  It lists the top 8 open source front-end frameworks...with Bootstrap being #1:  https://www.keycdn.com/blog/front-end-frameworks/
+
+#API 
+1. Here's a good article in the differences between an API (in general) and a Web API
+    https://en.wikipedia.org/wiki/Application_programming_interface
+2. Another place you can also search APIs: 
+    https://www.programmableweb.com/
+
 #Functions
 1. A quick 5 minute read on functions: 
-https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99
+    https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99
 
 #JQuery Intro
 1. Here’s an introduction to jQuery via Kahn Academy as well.
-https://www.khanacademy.org/computing/computer-programming/html-js-jquery
+    https://www.khanacademy.org/computing/computer-programming/html-js-jquery
 
 #DOM Event Documentation
 1. MDN DOM events 
-https://developer.mozilla.org/en-US/docs/Web/API/Event
+    https://developer.mozilla.org/en-US/docs/Web/API/Event
 
 2. If you’re interested in studying DOM on your own( Which I highly recommend ) 
-https://www.w3schools.com/js/js_htmldom.asp
+    https://www.w3schools.com/js/js_htmldom.asp
 
 #JQuery Intelligence
 1. General instructions for jQuery Intellisense and plugins for VS Code: 
-https://gist.github.com/jamescalderon/e6332ed039fd1bdaa710532a56161a28
+    https://gist.github.com/jamescalderon/e6332ed039fd1bdaa710532a56161a28
 
 #Sounds
 1. Welcome to Soundboard.com. 496,427 sound clips and sound effects on categorized soundboards from radio to TV to games, travel, science, animals, sound effects and sports. Listen, download and embed music. Free mp3 download or build your own audio soundboard using our innovative tools. 
-http://www.soundboard.com/ 
+    http://www.soundboard.com/ 
 
 2. Freesound: collaborative database of creative-commons licensed sound for musicians and sound lovers. Have you freed your sound today?
- http://www.freesound.org 
+    http://www.freesound.org 
 
+
+#Document Write
+1. Why is document.write considered a "bad practice"?
+    https://stackoverflow.com/questions/802854/why-is-document-write-considered-a-bad-practice
+
+
+#MOBILE FIRST
+1. Mobile first design is becoming more popular, but desktop first still has a place. The strategy you choose can make or break a project. 
+    https://www.brainleaf.com/blog/brainleaf-news/mobile-first-vs-desktop-first-how-to-choose-a-responsive-strategy/
+
+#VISUAL CODE TIPS/TRICKS
+1. A pretty helpful video on VSCode Tips and tricks: 
+    https://youtu.be/7OussBP55lg
+
+#VISIUAL CODE EXTENTIONS
 1. Extension for Visual Studio Code - A customizable extension for colorizing matching brackets
-https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
+    https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
+
+2. Using Emmet abbreviations inside VS Code
+    https://code.visualstudio.com/docs/editor/emmet
+
 
 
 #6.2 Topics to help prep for class 6.2 (function names in bold - some may be review topics):
@@ -74,18 +116,18 @@ https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-color
 
 #Extras:
 4. jQuery Pass Attributes to A Self-Closed Element: https://stackoverflow.com/questions/867916/creating-a-div-element-in-jquery
-Example from link: 
-jQuery('<div/>', {
-id: 'foo',
-href: 'http://google.com',
-title: 'Become a Googler',
-rel: 'external',
-text: 'Go to Google!'
-}).appendTo('#mySelector');
+`Example from link:` 
+`jQuery('<div/>', {`
+`id: 'foo',`
+`href: 'http://google.com',`
+`title: 'Become a Googler',`
+`rel: 'external',`
+`text: 'Go to Google!'`
+`}).appendTo('#mySelector');`
 
 5. JSDoc way of documenting functions in code:
-a. JSDoc: http://usejsdoc.org/tags-param.html
-b. StackOverflow: https://stackoverflow.com/questions/5873927/how-to-indicate-param-is-optional-using-inline-jsdoc (edited)
+    a. JSDoc: http://usejsdoc.org/tags-param.html
+    b. StackOverflow: https://stackoverflow.com/questions/5873927/how-to-indicate-param-is-optional-using-inline-jsdoc (edited)
 
 
 #7.1 Prep (may be review or new subjects):*
@@ -94,68 +136,84 @@ b. StackOverflow: https://stackoverflow.com/questions/5873927/how-to-indicate-pa
 1. General form submits: https://www.w3schools.com/html/html_forms.asp
 
 2. Preventing default submit: 
-• https://www.w3schools.com/jquery/event_preventdefault.asp
-• https://stackoverflow.com/questions/4426179/jquery-event-preventdefault
-• https://api.jquery.com/event.preventdefault/
+    • https://www.w3schools.com/jquery/event_preventdefault.asp
+    • https://stackoverflow.com/questions/4426179/jquery-event-preventdefault
+    • https://api.jquery.com/event.preventdefault/
 
 `Adding Event Listeners to Dynamic Elements Generated With jQuery:`
-• https://stackoverflow.com/questions/12065329/jquery-adding-event-listeners-to-dynamically-added-elements
+    • https://stackoverflow.com/questions/12065329/jquery-adding-event-listeners-to-dynamically-added-elements
 
 `jQuery .remove():`
-• https://api.jquery.com/remove/
+    • https://api.jquery.com/remove/
 
 `Window.localstorage – AKA 'localstorage':`
-• General: https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
-• setItem/clear: https://developer.mozilla.org/en-US/docs/Web/API/Storage/clear
+    • General: https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+    • setItem/clear: https://developer.mozilla.org/en-US/docs/Web/API/Storage/clear
 
 `Window.sessionStorage – AKA 'sessionStorage':`
-• General: https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage
+    • General: https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage
 
 `Document.cookie:`
-• https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie
+    • https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie
 
  `substring():`
-• https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring
+    • https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring
 
  `charAt():`
-• https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charAt
+    • https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charAt
 
 `split():`
-• https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
+    • https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
 
 `join():`
-• https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join
+    • https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join
 
 `isArray():`
-• https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray
+    • https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray
 
 `jQuery selectors:`
-• https://www.w3schools.com/jquery/jquery_ref_selectors.asp (edited)
+    • https://www.w3schools.com/jquery/jquery_ref_selectors.asp (edited)
 
-• https://lodash.com/
+    • https://lodash.com/
 
 
 #Class 7.2 Prep (Firebase Intro):*
 `Firebase (requires Google account)`: 
-firebase.google.com
+    https://firebase.google.com
 
 `General Firebase Database Service (Web - JavaScript) Documentation – we'll be focusing on this service:`
-https://firebase.google.com/docs/reference/js/firebase.database
+    https://firebase.google.com/docs/reference/js/firebase.database
 
-`Service Models` Firebase is a BaaS (Backend as a Service).  Here is a comparison between service models (IaaS, PaaS, SaaS, BaaS): https://assist-software.net/blog/cloud-offering-comparison-between-iaas-paas-saas-baas (edited)
+`Service Models` Firebase is a BaaS (Backend as a Service).  Here is a comparison between service models (IaaS, PaaS, SaaS, BaaS)
+    https://assist-software.net/blog/cloud-offering-comparison-between-iaas-paas-saas-baas (edited)
 
-Posted an awesome link to some cheat sheets. Take a look to this collection of cheat sheets. Including JavaScript, jQuery, CSS, HTML, and more at http://overapi.com/
+
+#Cheats
+1. Posted an awesome link to some cheat sheets. Take a look to this collection of cheat sheets. Including JavaScript, jQuery, CSS, HTML, and more
+    http://overapi.com/
 
 
 #30 Seconds of CSS
-A curated collection of useful CSS snippets you can understand in 30 seconds or less. From foundational elements such as clearfix to gradient text color and gradient cursor tracking to CSS easing and far beyond.
-https://atomiks.github.io/30-seconds-of-css/
+1. A curated collection of useful CSS snippets you can understand in 30 seconds or less. From foundational elements such as clearfix to gradient text color and gradient cursor tracking to     CSS easing and far beyond.
+    https://atomiks.github.io/30-seconds-of-css/
 
 #here are 25 html and CSS tutorials
-https://codeburst.io/25-html-css-tutorials-6a864f387185
+    https://codeburst.io/25-html-css-tutorials-6a864f387185
 
 #Hey guys bookmark this page and reference it when you’re working with firebase!
- https://blogs.msdn.microsoft.com/premier_developer/2018/01/19/firebase-101-nosql-database-management/
+    https://blogs.msdn.microsoft.com/premier_developer/2018/01/19/firebase-101-nosql-database-management/
 
  #Take a look at this part of their docs
- https://momentjs.com/docs/#/parsing/
+    https://momentjs.com/docs/#/parsing/
+
+#Media Queries
+1. If anyone is still confused about Media Queries I watched this video and it helped
+    https://www.youtube.com/watch?v=5xzaGSYd7jM&index=5&list=PL4cUxeGkcC9g9Vh9MAA-XKnfJsWZnPZFw
+
+#Hoisting
+1. Understanding hoisting in javascript 
+    https://scotch.io/tutorials/understanding-hoisting-in-javascript
+
+#ParseInt
+1. The parseInt() function parses a string argument and returns an integer of the specified radix (the base in mathematical numeral systems).
+    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt
