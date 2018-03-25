@@ -38,6 +38,16 @@
 4. What are some fun API's to play with?
     https://www.reddit.com/r/webdev/comments/3wrswc/what_are_some_fun_apis_to_play_with/
 
+5. API tutorial
+    http://osp123.github.io/tutorials/html/weatherAPI.html
+
+#KeyEventCodes
+1. JavaScript Event KeyCodes: Keycode testing tool - which keys map to which keycodes
+    http://keycode.info/
+
+#JavaScript
+1. What is the Execution Context & Stack in JavaScript? by David Shariff
+http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/
 
 #Functions
 1. A quick 5 minute read on functions: 
@@ -46,6 +56,9 @@
 #JQuery Intro
 1. Here’s an introduction to jQuery via Kahn Academy as well.
     https://www.khanacademy.org/computing/computer-programming/html-js-jquery
+
+2. Good Article on what jQuery is and how it fits in with JS: 
+    https://www.quora.com/What-is-a-difference-between-jQuery-and-JavaScript
 
 #DOM Event Documentation
 1. MDN DOM events 
@@ -290,9 +303,55 @@ Pen and Paper: Your notebook
 3. Part 2 (Google Books API, AJAX, JSON)
     https://www.youtube.com/watch?v=4LdTe90dqVE
 
+4. jQuery Crash Course [1] - Intro & Selectors
+    https://www.youtube.com/watch?v=3nrLc_JOF7k
+
+5. jQuery Crash Course [2] - Events
+    https://www.youtube.com/watch?v=VlWsJHsVb-E
+
+6. JavaScript Higher Order Functions & Arrays
+    https://www.youtube.com/watch?v=q4FWSdX55ls
+
+7. jQuery Crash Course [1] - Intro & Selectors
+    https://www.youtube.com/watch?v=3nrLc_JOF7k
+
+8. jQuery Crash Course [2] - Events
+    https://www.youtube.com/watch?v=VlWsJHsVb-E
+
+9. jQuery Crash Course [3] - DOM Manipulation
+    https://www.youtube.com/watch?v=q4FWSdX55ls
+
+10. JavaScript Fundamentals For Beginners
+    https://www.youtube.com/watch?v=vEROU2XtPR8
+
+
 #OPEN MOVIE DATABASE API
     http://www.omdbapi.com/
 
 #JSON
 1. JSON Formatter: Makes JSON easy to read. Open source.
     https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en-US
+
+#SLACK EMOJI'S
+ 
+1. A directory of the best custom emojis for your Slack chat. Download them all! Works in Discord too. Get the image, then added it to the channel through the emoji interface - and it's all in the wrist
+    https://slackmojis.com/,
+
+#JAVASCRIPT
+1. Generating random whole numbers in JavaScript in a specific range?
+    https://stackoverflow.com/questions/1527803/generating-random-whole-numbers-in-javascript-in-a-specific-range
+
+#MATHRANDOM
+1. The Math.random() function returns a floating-point, pseudo-random number in the range from 0 inclusive up to but not including 1 — which you can then scale to your desired range. The implementation selects the initial seed to the random number generation algorithm; it cannot be chosen or reset by the user.
+    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+
+
+#Arithmetic operators
+1. Arithmetic operators take numerical values (either literals or variables) as their operands and return a single numerical value. The standard arithmetic operators are addition (+), subtraction (-), multiplication (*), and division (/).
+    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Increment_()
+
+
+#for - MDN Web Docs
+
+1. The for statement creates a loop that consists of three optional expressions, enclosed in parentheses and separated by semicolons, followed by a statement (usually a block statement) to be executed in the loop.
+    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/statements/for
