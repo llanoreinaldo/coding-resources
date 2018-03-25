@@ -67,7 +67,7 @@ http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/
 2. If you’re interested in studying DOM on your own( Which I highly recommend ) 
     https://www.w3schools.com/js/js_htmldom.asp
 
-# JQuery Intelligence
+# JQuery Intellisence
 1. General instructions for jQuery Intellisense and plugins for VS Code: 
     https://gist.github.com/jamescalderon/e6332ed039fd1bdaa710532a56161a28
 
