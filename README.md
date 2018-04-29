@@ -423,24 +423,86 @@ Add a `README.md` to your repository describing the project. Here are some resou
     https://stackoverflow.com/questions/3434278/do-dom-tree-elements-with-ids-become-global-variables?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
 
 
-## How to Write a Git Commit Message | CSS-Tricks
-1. An oldie but goodie, Chris Beams writes about the secret art of writing helpful Git commit messages. Here’s why he thinks it’s so important: If you haven’t given much thought to what makes a great Git commit message, it may be the case that you haven’t spent much time using git log and related tools. There is a...
-    https://css-tricks.com/how-to-write-a-git-commit-message/
 
 
-# Coding Skills Practice Game
-1.  Great way to practice your coding skills !
-    http://www.codewars.com 
 
+
+# **VS Code Shortcuts**
+
+1. The VS code shortcut to duplicate a line is a nice thing to know:
+    >Shift+Alt+Down and Shift+Alt+Up
+
+
+# **HTML**
 
 ## HTML Reference
 1. A free guide to all HTML elements and attributes.
     https://htmlreference.io/
 
 
+# **CSS**
+
 ## CSS Reference
 1. CSS Reference is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.
     https://cssreference.io/
+
+## New CSS Features Are Enhancing Everything You Know About Web Design | CSS-Tricks
+1. We just hit you with a slab of observations about CSS Grid in a new post by Manuel Matuzo. Grid has been blowing our minds since it was formally introduced and Jen Simmons is connecting it (among other new features) to what she sees as a larger phenomenon in the evolution of layouts in web design.
+
+[CSS Features](https://css-tricks.com/new-css-features-are-enhancing-everything-you-know-about-web-design/)
+
+
+## 1 HTML Element + 5 CSS Properties = Magic! | CSS-Tricks
+1.  Let's say I told you we can get the results below with just one HTML element and five CSS properties for each. No SVG, no images (save for the background on the root that's there just to make clear that our one HTML element has some transparent parts), no JavaScript. What would you think that involves?
+
+[CSS Trick](https://css-tricks.com/1-html-element-5-css-properties-magic/)
+
+
+## How to Write a Git Commit Message | CSS-Tricks
+1. An oldie but goodie, Chris Beams writes about the secret art of writing helpful Git commit messages. Here’s why he thinks it’s so important: If you haven’t given much thought to what makes a great Git commit message, it may be the case that you haven’t spent much time using git log and related tools. There is a...
+    https://css-tricks.com/how-to-write-a-git-commit-message/
+
+
+# **JavaScript**
+
+## The ultimate JavaScript cheat sheet (compliments of Ronny!)
+
+[Dev Docs on JavaScript](http://devdocs.io/javascript/global_objects/array/concat)
+
+## Grasshopper - JavaScript tutorial
+1.  Grasshopper is an app that uses puzzles and quizzes to teach you Javascript.  If you've always wanted to create your own website but have felt overwhelmed by the complexity involved with learning a programming language, you might be in luck now. One of Google's Area 120 idea incubator teams have successfully developed an&hellip;
+
+[Grasshopper Tutorial](https://www.techspot.com/amp/news/74245-grasshopper-app-uses-puzzles-quizzes-teach-you-javascript.html)
+
+
+## JavaScript is Sexy - Understand JavaScript Callback Functions and Use Them
+1.  Learn JavaScript Higher-order Functions, aka Callback Functions: In JavaScript, functions are first-class objects; that is, functions are of the type Object and they can be used in a first-class m...
+
+[JavaScript Tutorial](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
+
+## Top JavaScript Libraries & Tech to Learn in 2018 – JavaScript Scene – Medium
+1.  An article rounding up the top tech to learn in 2018. This year there are some surprises. (Reading time:
+8 min).
+    [JavaScript Scene](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6?source=email-9588e605e5ad-1524748748232-digest.reader------1-38------------------4834d72befd0-1&sectionName=top)
+
+
+
+# **JQuery**
+
+# **API/AJAX**
+
+## RESTful API Tutorial
+1.  HTTP status codes and how to use them in RESTful API or Web Services.
+    http://www.restapitutorial.com/httpstatuscodes.html
+
+
+# **Firebase**
+
+
+# **SASS* 
+1. SASS Tutorial - What is SASS?
+
+[SASS Tutorial](https://youtu.be/St5B7hnMLjg)
 
 
 # **NODE.js** 
@@ -457,16 +519,40 @@ Add a `README.md` to your repository describing the project. Here are some resou
     https://www.youtube.com/watch?v=TlB_eWDSMt4
 
 
+# **MySQL**
+
+
 # **TOOL and TIPS**
+
+## Tools I wish I had known about when I started coding (Reading time: 6 min)
+1.  In the tech world, there are thousands of tools that people will tell you to use. How are you supposed to know where to start?
+
+    [Important Tools Article](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-57849efd9248)
+
 
 ## tooltip - JSFiddle
 1.  Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
-https://jsfiddle.net/mynar7/00g2j7x4/
+
+    [JSFiddle Tooltip](https://jsfiddle.net/mynar7/00g2j7x4/)
 
 
 ## How To Create Tooltips
 1.  Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, and XML.
-https://www.w3schools.com/howto/howto_css_tooltip.asp
+
+    [How to Create Tooltips](https://www.w3schools.com/howto/howto_css_tooltip.asp)
+
+
+## Coding Skills Practice Game
+1.  Great way to practice your coding skills !
+    [CodeWars Game](http://www.codewars.com)
+
+
+## Ways to Write a Cleaner Code | Become a Better Programmer
+1.  Tips on how to write cleane code and become a better programmer
+
+    [Cleaner Code](https://techindustan.com/ways-to-write-a-cleaner-code-become-a-better-programmer/)
+
+
 
 
 # **MISCELLANEOUS**
@@ -475,10 +561,19 @@ https://www.w3schools.com/howto/howto_css_tooltip.asp
 1. YouTube The Coding Train: Hey this seems relevant to the hw: PS: at the end he gets into why you might care about module.exports 
     https://www.youtube.com/watch?v=GQC2lJIAyzM
 
+## Object Oriented Programming
+1. WHy is object oriented programming useful with a role playing game:
+    https://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-a-role-playing-game-example/
 
 
 ## _Emoji Cheat Sheet_
     https://www.webpagefx.com/tools/emoji-cheat-sheet/
+
+
+## CloudApp 
+1.  Taking screenshots, creating gifs, annotations. Shortcuts are legit and copies to clipboard on save. Ronnie's referral link if you want to check it out:
+
+    [CloudApp](https://my.cl.ly/r/2m2i340l2W2Y0107)
 
 
 # _**FILES DIRECTORY**_
