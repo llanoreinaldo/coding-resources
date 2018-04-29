@@ -41,6 +41,23 @@
     https://css-tricks.com/how-to-write-a-git-commit-message/
 
 
+## 30 Seconds of CSS
+1. A curated collection of useful CSS snippets you can understand in 30 seconds or less. From foundational elements such as clearfix to gradient text color and gradient cursor tracking to CSS easing and far beyond.
+    
+    >[Github](https://atomiks.github.io/30-seconds-of-css/)
+
+
+## here are 25 html and CSS tutorials
+    
+*    >[Tutorials](https://codeburst.io/25-html-css-tutorials-6a864f387185)
+
+
+## FREE Bootstrap 4.0 Course
+1. Free 10-part course on Bootstrap 4.0 to help you learn responsive web design: 
+    >[Bootstrap 4.0 Course](https://fcc.im/2I3p2J1)
+
+
+
 # **JavaScript**
 
 ## The ultimate JavaScript cheat sheet (compliments of Ronny!)
@@ -155,17 +172,17 @@
 *   >[Tutorial](http://osp123.github.io/tutorials/html/weatherAPI.html)
 
 
-
-
 ## RESTful API Tutorial
 1.  HTTP status codes and how to use them in RESTful API or Web Services.
     http://www.restapitutorial.com/httpstatuscodes.html
 
 
+
 # **Firebase**
 
 
-# **SASS* 
+
+# **SASS**
 1. SASS Tutorial - What is SASS?
 
 [SASS Tutorial](https://youtu.be/St5B7hnMLjg)
@@ -246,6 +263,12 @@
     >[Surviving Bootcamp Article](https://www.grantaguinaldo.com/tips-surviving-coding-bootcamp/)
 
 
+## Cheats
+1. Posted an awesome link to some cheat sheets. Take a look to this collection of cheat sheets. Including JavaScript, jQuery, CSS, HTML, and more
+    
+    >[OverAPI](http://overapi.com/)
+
+
 ## Sounds
 1. Welcome to Soundboard.com. 496,427 sound clips and sound effects on categorized soundboards from radio to TV to games, travel, science, animals, sound effects and sports. Listen, download and embed music. Free mp3 download or build your own audio soundboard using our innovative tools. 
     >[Soundboard Website](http://www.soundboard.com/)
@@ -309,6 +332,13 @@
     >[Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
 
+## SLACK EMOJI'S
+ 
+1. A directory of the best custom emojis for your Slack chat. Download them all! Works in Discord too. Get the image, then added it to the channel through the emoji interface - and it's all in the wrist
+    
+    >[Slack Emojis](https://slackmojis.com/)
+
+
 
 ## CloudApp 
 1.  Taking screenshots, creating gifs, annotations. Shortcuts are legit and copies to clipboard on save. Ronnie's referral link if you want to check it out:
@@ -317,9 +347,9 @@
 
 
 
-# VISUAL CODE Tips
+# VISUAL CODE TIPS
 
-## VISIUAL CODE EXTENTIONS
+## Visual Code Extensions
 1. Extension for Visual Studio Code - A customizable extension for colorizing matching brackets
     
     >[Marketplace Article](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
@@ -335,6 +365,161 @@
 1. The VS code shortcut to duplicate a line is a nice thing to know:
     
     >Shift+Alt+Down and Shift+Alt+Up
+
+
+## Tips and Tricks Video
+1. A pretty helpful video on VSCode Tips and tricks: 
+    
+    >[YouTube Video](https://youtu.be/7OussBP55lg)
+
+
+## Test Using a Simple Web Server
+1.  If you guys are using something that doesn’t run on the `file:///` protocol (cough firebase auth cough), and you’re on a Mac, good news:
+    1. Start a Simple Web Server from Any Directory on Your Mac OS X: You need only one tiny command to start a web server from any directory through OS X&#39;s terminal. If you&#39;ve got a web site lying around and need to test it out, this is possibly the fastest way to make that happen.
+    >[Lifehacker Article](https://lifehacker.com/start-a-simple-web-server-from-any-directory-on-your-ma-496425450)
+
+
+## Run Local PHP Server
+1.  If you want to run a PHP server in any folder. Just navigate to that folder in your terminal and type: php -s localhost:3000   Then go to localhost:3000 in your browser.
+
+
+## Helpful Video on How to Psuedocode
+1. Compliments of Ricky earlier in the program
+    >[YouTube Video](https://www.youtube.com/watch?v=zRWDJOqeDhg&index=5&list=PLgJ8UgkiorCmEChEWfh7sxPvQwYAx3Kt0&t=0s)
+
+
+
+# PRE-CLASS PREP NOTES
+
+## 6.2 Topics to help prep for class 6.2 (function names in bold - some may be review topics):
+
+### JSON:
+    >[JSON.stringify](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
+    >[JSON.parse](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
+
+### Trim:
+    >[JavaScript *.trim* (*String.trim()*) function](https://www.w3schools.com/Jsref/jsref_trim_string.asp)
+
+### Push:
+    >[Array *push()*](https://www.w3schools.com/jsref/jsref_push.asp)
+
+### Forms:
+1.  General form submits (think 'submitting data when clicking the Submit button after filling out a web form'). This usually causes a refresh of page in browser:
+    >[w3school website](https://www.w3schools.com/html/html_forms.asp)
+
+2.  Preventing default submit (through jQuery) - prevents page refresh and allows you to handle/manipulate submit: 
+    >[JQuery Stack Overflow Event PreventDefault](https://stackoverflow.com/questions/4426179/jquery-event-preventdefault)
+    >[JQuery API Event PreventDefaul](https://api.jquery.com/event.preventdefault/)
+
+5. Adding Event Listeners to Dynamic Elements Generated With jQuery:
+    >[look at best answer](https://stackoverflow.com/questions/12065329/jquery-adding-event-listeners-to-dynamically-added-elements)
+
+6.  jQuery *$(this)*: 
+    >[JQuery This Selector](http://html-tuts.com/jquery-this-selector/)
+
+7. API Keys To Sign Up For:
+    >[OpenWeatherMap API](http://openweathermap.org/appid)
+    >[Giphy API (choose ‘Create An App’ to get started)](https://developers.giphy.com/docs/)
+
+
+## 6.3 Class Prep (some material may be review – some may be new):
+1.  JS && in conditional statements: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_Operators
+
+2. jQuery prepend() Method: https://www.w3schools.com/jquery/html_prepend.asp
+
+3.  Data Attributes:
+    a. In HTML: https://www.w3schools.com/tags/att_global_data.asp
+    b. WHY to use them: https://www.sitepoint.com/how-why-use-html5-custom-data-attributes/
+    c. Set or get data from using jQuery .attr() function – this is general documentation: http://api.jquery.com/attr/
+    d. jQuery.data()  - Alternate – be careful, as there are some differences from c above: 
+    •    https://stackoverflow.com/questions/5309926/how-to-get-the-data-id-attribute
+    •    https://www.peterbe.com/plog/data-and-attr-in-jquery
+
+### Extras:
+4. jQuery Pass Attributes to A Self-Closed Element: https://stackoverflow.com/questions/867916/creating-a-div-element-in-jquery
+`Example from link:` 
+`jQuery('<div/>', {`
+`id: 'foo',`
+`href: 'http://google.com',`
+`title: 'Become a Googler',`
+`rel: 'external',`
+`text: 'Go to Google!'`
+`}).appendTo('#mySelector');`
+
+5. JSDoc way of documenting functions in code:
+    a. JSDoc: http://usejsdoc.org/tags-param.html
+    b. StackOverflow: https://stackoverflow.com/questions/5873927/how-to-indicate-param-is-optional-using-inline-jsdoc (edited)
+
+
+## 7.1 Prep (may be review or new subjects):*
+
+`Forms:`
+1. General form submits: https://www.w3schools.com/html/html_forms.asp
+
+2. Preventing default submit: 
+    • https://www.w3schools.com/jquery/event_preventdefault.asp
+    • https://stackoverflow.com/questions/4426179/jquery-event-preventdefault
+    • https://api.jquery.com/event.preventdefault/
+
+`Adding Event Listeners to Dynamic Elements Generated With jQuery:`
+    • https://stackoverflow.com/questions/12065329/jquery-adding-event-listeners-to-dynamically-added-elements
+
+`jQuery .remove():`
+    • https://api.jquery.com/remove/
+
+`Window.localstorage – AKA 'localstorage':`
+    • General: https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+    • setItem/clear: https://developer.mozilla.org/en-US/docs/Web/API/Storage/clear
+
+`Window.sessionStorage – AKA 'sessionStorage':`
+    • General: https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage
+
+`Document.cookie:`
+    • https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie
+
+`substring():`
+    • https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring
+
+`charAt():`
+    • https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charAt
+
+`split():`
+    • https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
+
+`join():`
+    • https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join
+
+`isArray():`
+    • https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray
+
+`jQuery selectors:`
+    • https://www.w3schools.com/jquery/jquery_ref_selectors.asp (edited)
+
+    • https://lodash.com/
+
+
+## Class 7.2 Prep (Firebase Intro):
+
+`Firebase (requires Google account)`: 
+    https://firebase.google.com
+
+`General Firebase Database Service (Web - JavaScript) Documentation – we'll be focusing on this service:`
+    https://firebase.google.com/docs/reference/js/firebase.database
+
+`Service Models` Firebase is a BaaS (Backend as a Service).  Here is a comparison between service models (IaaS, PaaS, SaaS, BaaS)
+    https://assist-software.net/blog/cloud-offering-comparison-between-iaas-paas-saas-baas (edited)
+
+
+
+## 8.1 PreClass 8.1:
+
+`CORS: Cross-origin resource sharing:`
+• Some popular API choices do not support CORS. Use https://cors-anywhere.herokuapp.com/ as a workaround.
+• Docs: https://github.com/Rob--W/cors-anywhere/#documentation
+• Demo: https://robwu.nl/cors-anywhere.html
+
+`GitHub Flow Guide for Teams`
+• https://guides.github.com/introduction/flow/ (edited)
 
 
 
