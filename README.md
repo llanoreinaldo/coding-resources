@@ -443,6 +443,8 @@ Add a `README.md` to your repository describing the project. Here are some resou
     https://cssreference.io/
 
 
+# **NODE.js** 
+
 ## Node.js Documentation
 1.  Super helpful documentation on Node.js
     https://nodejs.org/docs/latest/api/process.html#process_process_argv
@@ -450,6 +452,12 @@ Add a `README.md` to your repository describing the project. Here are some resou
 2.  Node.JS Module Patterns: A simple introduction to Node.JS modules by example.
     https://darrenderidder.github.io/talks/ModulePatterns/#
 
+### Node Tutorial
+1.  I found this Node tutorial to be very helpful, concise, and well-produced (compliments of Joshua N. Harnois)
+    https://www.youtube.com/watch?v=TlB_eWDSMt4
+
+
+# **TOOL and TIPS**
 
 ## tooltip - JSFiddle
 1.  Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
@@ -461,15 +469,17 @@ https://jsfiddle.net/mynar7/00g2j7x4/
 https://www.w3schools.com/howto/howto_css_tooltip.asp
 
 
-## 15.3: Setting up a Twitter app - Twitter Bot Tutorial (compliments of Lee Warrick)
+# **MISCELLANEOUS**
+
+## Setting up a Twitter app - Twitter Bot Tutorial (compliments of Lee Warrick)
 1. YouTube The Coding Train: Hey this seems relevant to the hw: PS: at the end he gets into why you might care about module.exports 
     https://www.youtube.com/watch?v=GQC2lJIAyzM
 
 
 
-# _Emoji Cheat Sheet_
+## _Emoji Cheat Sheet_
+    https://www.webpagefx.com/tools/emoji-cheat-sheet/
 
-https://www.webpagefx.com/tools/emoji-cheat-sheet/
 
 # _**FILES DIRECTORY**_
 
