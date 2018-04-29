@@ -423,6 +423,47 @@ Add a `README.md` to your repository describing the project. Here are some resou
     https://stackoverflow.com/questions/3434278/do-dom-tree-elements-with-ids-become-global-variables?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
 
 
+## How to Write a Git Commit Message | CSS-Tricks
+1. An oldie but goodie, Chris Beams writes about the secret art of writing helpful Git commit messages. Here’s why he thinks it’s so important: If you haven’t given much thought to what makes a great Git commit message, it may be the case that you haven’t spent much time using git log and related tools. There is a...
+    https://css-tricks.com/how-to-write-a-git-commit-message/
+
+
+# Coding Skills Practice Game
+1.  Great way to practice your coding skills !
+    http://www.codewars.com 
+
+
+## HTML Reference
+1. A free guide to all HTML elements and attributes.
+    https://htmlreference.io/
+
+
+## CSS Reference
+1. CSS Reference is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.
+    https://cssreference.io/
+
+
+## Node.js Documentation
+1.  Super helpful documentation on Node.js
+    https://nodejs.org/docs/latest/api/process.html#process_process_argv
+
+2.  Node.JS Module Patterns: A simple introduction to Node.JS modules by example.
+    https://darrenderidder.github.io/talks/ModulePatterns/#
+
+
+## tooltip - JSFiddle
+1.  Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
+https://jsfiddle.net/mynar7/00g2j7x4/
+
+
+## How To Create Tooltips
+1.  Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, and XML.
+https://www.w3schools.com/howto/howto_css_tooltip.asp
+
+
+## 15.3: Setting up a Twitter app - Twitter Bot Tutorial (compliments of Lee Warrick)
+1. YouTube The Coding Train: Hey this seems relevant to the hw: PS: at the end he gets into why you might care about module.exports 
+    https://www.youtube.com/watch?v=GQC2lJIAyzM
 
 
 
