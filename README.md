@@ -581,6 +581,11 @@
 
 # **FILES DIRECTORY**
 
+## Voluntary Bootcamp Participant Class Directory
+
+[Director of Coding Bootcamp Participants](https://docs.google.com/spreadsheets/d/1x)EjQqE_xDBsi5Sgpmb8n7kU7A7LbvA401jAjmLoL4hY/edit?usp=sharing)
+
+
 ## Bootstrap Gulp Zip File Package (Created by Anibal Cruz)
 
 1.  Here is a package Cruz created for those of you who want to work in bootstrap 4 and use its src SCSS files.  This package contains a Gulp process that works with bootstrap 4’s scss files and handles all the retooling it needs.  It will compile, auto-prefix, and minify the bootstrap.scss file into bootstrap.min.css which is in the public/css folder.
