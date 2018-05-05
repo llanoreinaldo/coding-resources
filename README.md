@@ -575,7 +575,7 @@
 7. [jQuery Crash Course [1] - Intro & Selectors](https://www.youtube.com/watch?v=3nrLc_JOF7k)
 8. [jQuery Crash Course [2] - Events](https://www.youtube.com/watch?v=VlWsJHsVb-E)
 9. [jQuery Crash Course [3] - DOM Manipulation](https://www.youtube.com/watch?v=q4FWSdX55ls)
-10.[JavaScript Fundamentals For Beginners](https://www.youtube.com/watch?v=vEROU2XtPR8)
+10. [JavaScript Fundamentals For Beginners](https://www.youtube.com/watch?v=vEROU2XtPR8)
 
 
 
@@ -583,7 +583,7 @@
 
 ## Voluntary Bootcamp Participant Class Directory
 
-[Director of Coding Bootcamp Participants](https://docs.google.com/spreadsheets/d/1x)EjQqE_xDBsi5Sgpmb8n7kU7A7LbvA401jAjmLoL4hY/edit?usp=sharing)
+[Director of Coding Bootcamp Participants](https://docs.google.com/spreadsheets/d/1xEjQqE_xDBsi5Sgpmb8n7kU7A7LbvA401jAjmLoL4hY/edit?usp=sharing)
 
 
 ## Bootstrap Gulp Zip File Package (Created by Anibal Cruz)
